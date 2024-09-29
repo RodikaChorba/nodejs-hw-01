@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "c4eb2075-ac2c-4b71-887d-b2c183bdc4d4",
+    "name": "Johnathan Berge",
+    "phone": "(430) 781-2375 x3942",
+    "email": "Alberta_Weissnat@gmail.com",
+    "job": "Customer Accounts Strategist"
+  },
+  {
+    "id": "9d3588f1-b8a0-40c9-a690-473b0434026d",
+    "name": "Antonio Runolfsdottir-Torp MD",
+    "phone": "(617) 653-6165 x18839",
+    "email": "Verda.Auer@gmail.com",
+    "job": "Chief Solutions Supervisor"
+  }
+]
